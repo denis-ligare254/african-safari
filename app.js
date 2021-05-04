@@ -7,7 +7,7 @@ const reviews = [
     img:
       "https://images.pexels.com/photos/3739327/pexels-photo-3739327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     text:
-      "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      "My first experience with African wildlife began when I was young, similar to the way a lot of children see wildlife: at a zoo or circus. I always loved seeing animals in these environments, but it always seemed like something was off. ",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const reviews = [
     img:
       "https://images.pexels.com/photos/3844922/pexels-photo-3844922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     text:
-      "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
+      "The Grévy's zebra, also known as the imperial zebra, is the largest living wild equid and the largest and most threatened of the three species of zebra, the other two being the plains zebra and the mountain zebra. ",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const reviews = [
     img:
       "https://images.pexels.com/photos/7723348/pexels-photo-7723348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     text:
-      "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
+      "This crossword clue Savanna antelopes was discovered last seen in the April 25 2021 at the NewsDay Crossword. The crossword clue possible answer is available in 7 letters. This answers first letter of which starts with I and can be found at the end of S. We think IMPALAS is the possible answer on this clue.",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ const reviews = [
     img:
       "https://images.pexels.com/photos/7723296/pexels-photo-7723296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     text:
-      "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+      "Duplicate, adventure, africa, animal, close-up, ecotourism, giraffe, grass, mammal, portrait, safari, savannha, serengeti, spot, tall, tanzania, tourism, travel, wild, wildlife, zebra ",
   },
 ];
 
