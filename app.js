@@ -2,8 +2,8 @@
 const reviews = [
   {
     id: 1,
-    name: "susan smith",
-    job: "web developer",
+    name: "Elephant",
+    job: "Among the big 5",
     img:
       "https://images.pexels.com/photos/3739327/pexels-photo-3739327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     text:
@@ -11,8 +11,8 @@ const reviews = [
   },
   {
     id: 2,
-    name: "anna johnson",
-    job: "web designer",
+    name: "zebra",
+    job: "Among the big 5",
     img:
       "https://images.pexels.com/photos/3844922/pexels-photo-3844922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     text:
@@ -20,8 +20,8 @@ const reviews = [
   },
   {
     id: 3,
-    name: "peter jones",
-    job: "intern",
+    name: "Antelope",
+    job: "Among the big 5",
     img:
       "https://images.pexels.com/photos/7723348/pexels-photo-7723348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     text:
@@ -29,8 +29,8 @@ const reviews = [
   },
   {
     id: 4,
-    name: "bill anderson",
-    job: "the boss",
+    name: "Girrafe",
+    job: "Among the big 5",
     img:
       "https://images.pexels.com/photos/7723296/pexels-photo-7723296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     text:
