@@ -7,6 +7,7 @@
 -(https://github.com/denis-ligare254/african-safari)
 
 # Live server link
+-(https://denis-ligare254.github.io/african-safari/)
 
 # Technologies used
 -HTML5
